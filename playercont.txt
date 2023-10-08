@@ -3,4 +3,3 @@ kodland
 kedi
 pesto
 kubo
-arhan
