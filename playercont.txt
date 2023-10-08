@@ -1,3 +1,5 @@
 int speed=10;
 kodland
 kedi
+pesto
+kubo
